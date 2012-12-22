@@ -45,7 +45,7 @@ class RailsMigrationsListCommand(sublime_plugin.WindowCommand):
     # root directory! At this stage it's safe to assume that we won't come
     # across a familiar directory structure for a Rails app.
     if path == '/':
-      raise NotRailsApp("Cannot recognize this file structure as a Rails app")
+      raise NotRailsApp("Please, open a rails application")
 
     if len([x for x in expected_items if x in files]) == len(expected_items):
       return path

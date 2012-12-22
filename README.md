@@ -1,4 +1,3 @@
-SublimeRailsMigrationsList
-==========================
+= Sublime Rails Migrations List
 
-Command to open any rails migration
+A simple plugin to [[http://sublimetext.com/2|Sublime Text 2]] to quick navigate and switch between rails navigations
