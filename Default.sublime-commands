@@ -1,0 +1,4 @@
+[{
+  "caption": "Migrations list",
+  "command": "rails_migrations_list"
+}]
