@@ -13,6 +13,6 @@ Install Rails Migration List from [package control](http://wbond.net/sublime_pac
 
 Or fetch from github:
 
-    git clone git://github.com/ehuss/Sublime-Wrap-Plus.git
+    git clone git://github.com/KELiON/RailsMigrationsList.git
 
 and place it in your packages directory.
