@@ -9,7 +9,9 @@ Use default shortcut (&#8984;+&#8679;+M) or command "Migrations list" in your co
 ![](http://cl.ly/image/0y310o1F0c0J/Screen%20Shot%202012-12-24%20at%203.29.10%20PM.png)
 
 ## Installation
-Fetch from github:
+Install Rails Migration List from [package control](http://wbond.net/sublime_packages/package_control).
+
+Or fetch from github:
 
     git clone git://github.com/ehuss/Sublime-Wrap-Plus.git
 
