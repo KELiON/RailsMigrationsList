@@ -32,6 +32,7 @@ class RailsMigrationsListCommand(sublime_plugin.WindowCommand):
 
 
   def get_file(self, index):
+    if index >= 0:
       url = os.path.join(self.migrations_dir, self.fileList[index])
       self.window.open_file(url)
 
